@@ -152,6 +152,7 @@ ul li a:hover{
     left: 0;
     justify-content: flex-start;
     margin-top: 20%;
+    aling-items: center;
   }
 
   #bg_imgs #woman {
