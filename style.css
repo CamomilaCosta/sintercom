@@ -163,11 +163,10 @@ ul li a:hover{
 
   #bg_imgs #purple{
     transform: rotate(90deg);
-    position: absolute;
     height: max-content;
     left: 20%;
     bottom: -500px;
-    height: 100vw;
+    height: 110vw;
   }
 
   body {
